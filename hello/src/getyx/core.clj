@@ -17,6 +17,7 @@
 (defn fire!!! [are-you-ready?]
   (if are-you-ready?
     (println "FIREEEEEEE!!!!")
-    (println "Nops")))
+    (println "Nops...")))
 
-
+(fire!!! true)
+(fire!!! false)
