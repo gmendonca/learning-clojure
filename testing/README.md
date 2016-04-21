@@ -14,6 +14,10 @@ To start a web server for the application, run:
 
     lein ring server
 
+You can now create a jar file out of this project running:
+
+    lein uberjar
+
 ## License
 
 Copyright © 2016 FIXME
