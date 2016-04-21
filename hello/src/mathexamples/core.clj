@@ -7,3 +7,5 @@
 (double (/ 5 2))
 
 (/ 5 2.0)
+
+(def bigger-numbers (map inc (range)))
