@@ -28,3 +28,5 @@
 (defn i-like-everything!
   [& argument-list]
   (println argument-list))
+
+;;(macroexpand-1 '(when true (println "hello")))
